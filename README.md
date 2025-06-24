@@ -20,7 +20,7 @@ This script demonstrates how to authenticate with the Kaggle API, download a dat
 
 
 # Step-2
-# GCS to BigQuery Cloud Function ()
+# GCS to BigQuery Cloud Function (Floder: GCS_to_BigQuery)
 
 This project deploys a Cloud Function that is triggered when a CSV file is uploaded to a GCS bucket. It loads the data into a BigQuery table.
 
